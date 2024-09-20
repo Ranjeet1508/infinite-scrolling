@@ -1,0 +1,23 @@
+/* App.css */
+/* App.css */
+.grid-container {
+    padding: 4rem;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(4, 1fr); /* Three columns */
+    gap: 20px;
+  }
+  
+  
+  .card {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .card img {
+    width: 100%;
+    height: auto;
+  }
+  
